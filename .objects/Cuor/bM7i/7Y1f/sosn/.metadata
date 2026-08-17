@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Google'da Ara'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "sosnyQ9jfU-WcDEGrYfy9w",
+  "Reference": "4cP4nvWV-U-mFF3cbAuq-w/sosnyQ9jfU-WcDEGrYfy9w",
+  "ParentRef": "4cP4nvWV-U-mFF3cbAuq-w/7Y1fyM9oU0WfHDHeFUg6bA",
+  "Created": "2026-08-15T08:36:47.4989258Z",
+  "Updated": "2026-08-15T08:36:47.4989258Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

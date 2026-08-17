@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Google'da Ara",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "zerKmddwjkyHxCPN6GJEgQ",
+  "Reference": "4cP4nvWV-U-mFF3cbAuq-w/zerKmddwjkyHxCPN6GJEgQ",
+  "ParentRef": "4cP4nvWV-U-mFF3cbAuq-w/uoBI7ZibhEKtYloKXJg-iQ",
+  "Created": "2026-08-15T08:30:24.4181593Z",
+  "Updated": "2026-08-15T08:30:24.4181593Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

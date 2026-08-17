@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Çok bulutlu",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yy8cB90EG0WA6mRob8A-YQ",
+  "Reference": "4cP4nvWV-U-mFF3cbAuq-w/yy8cB90EG0WA6mRob8A-YQ",
+  "ParentRef": "4cP4nvWV-U-mFF3cbAuq-w/uoBI7ZibhEKtYloKXJg-iQ",
+  "Created": "2026-08-15T09:35:12.9148486Z",
+  "Updated": "2026-08-15T09:35:12.9148486Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
